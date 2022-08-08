@@ -1,0 +1,5 @@
+android_library_import {
+    name: "openEUICC-zxing-android-embedded-prebuilt-aar",
+    aars: ["zxing-android-embedded-4.3.0.aar"],
+    sdk_version: "current",
+}

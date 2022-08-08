@@ -2,9 +2,9 @@ android_app {
     name: "OpenEUICC",
     static_libs: [
         // Dependencies that must be pulled from maven
-        "asn1bean-prebuilt-jar",
-        "zxing-core-prebuilt-jar",
-        "zxing-android-embedded-prebuilt-aar",
+        "openEUICC-asn1bean-prebuilt-jar",
+        "openEUICC-zxing-core-prebuilt-jar",
+        "openEUICC-zxing-android-embedded-prebuilt-aar",
 
         // Dependencies included with AOSP
         "androidx.appcompat_appcompat",

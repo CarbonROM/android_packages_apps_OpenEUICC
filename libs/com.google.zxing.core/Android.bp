@@ -1,0 +1,4 @@
+java_import {
+    name: "openEUICC-zxing-core-prebuilt-jar",
+    jars: ["core-3.4.1.jar"],
+}
